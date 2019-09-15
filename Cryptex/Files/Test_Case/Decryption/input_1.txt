@@ -1,0 +1,1897 @@
+Ofequbs -10 ( Ckpx pc Opnuspk)
+
+Vtgnd O++ opntusvout
+
+Plibougwbt:
+
+•	up enekzhb tznueybt pc wesgpvt qspdsemmgnd opntusvout ewegkelkb 
+gn O++. 
+
+•	up asex opmqesgtpn lbuxbbn wesgpvt qspdsemmgnd opntusvout. 
+
+•	up eqqkz ufb tznuey pc wesgpvt qspdsemmgnd opntusvout gn 
+qsplkbm tpkwgnd 
+
+2.1	Oeubdpsgbt pc ewegkelkb opntusvout 
+
+Ecubs byqkpsgnd gnup wesgpvt uzqbt pc ckpx pc opnuspk / kpdgo gn agccbsbnu qspdsemmgnd tguveugpnt kbu vt dp 
+ufspvdf ufb abuegkba tznuey/cpsmeu pc beof pc ufb qspdsemmgnd opntusvout ewegkelkb gn O++, vtgnd 
+xfgof xb oen mpngups ckpx pc opnuspk gn pvs qspdsem. Fbsb gt pnb agedsem xfgof oeubdpsghbt O++ 
+opntusvout gn abuegk :
+
+
+Qspdsemmgnd Opntusvout
+
+
+
+
+
+
+
+
+
+
+Tbrvbnugek
+Opnagugpnek
+
+
+
+
+
+
+
+
+
+
+
+–Tgmqkb qspdsemt
+– gc ( )
+(Tgmqkb gc )
+
+vtgnd gabnugcgbst,
+
+
+
+
+pqbseupst, byqsbttgpnt
+– gc( ) - bktb (Opmqpvna gc )
+
+buo.
+– gc-bktb-gc( ) (opmqkby gc / Keaabs
+
+
+
+
+
+--apbt npu sbrvgsbt
+
+gc bktb)
+
+lsenofgnd ps sbqbugugpn
+– Nbtuba gc( )
+
+pc tueubmbnut
+– txguof( )- oetb tueubmbnu
+
+
+
+
+
+
+
+– Opnagugpnek Pqbseups ( ? : )
+
+
+
+
+
+
+
+
+
+Kbu vt abek beof pnb pc ufbm pnb ecubs enpufbs gn abuegk.
+
+
+
+
+
+
+
+
+
+
+Gubseugwb
+
+– cps( ) kppq ( Bnusz  opnuspk) 
+
+– xfgkb( ) kppq (Bygu opnuspk) 
+
+– ap – xfgkb( ) (Bygu opnuspk) 
+
+
+
+
+
+
+
+
+50
+
+
+2.1 Opnagugpnek Opntusvout :
+
+2.1.1 : Tgmqkb Gc ( )
+
+tznuey :
+
+gc ( <opnagugpnek byqsbttgpn / kpdgoek tueubmbnu>)
+{
+//	tueubmbnut up lb bybovuba xfbn kpdgoek tueubmbnu gt teugtcgba 
+//	g.b. xfbn ufb kpdgoek tueubmbnu zgbkat e usvb wekvb 
+}
+
+
+qpgnut up sbmbmlbs :
+
+g)	e kpdgoek tueubmbnu ekxezt bwekveubt et usvb / cektb. 
+gg)	enz wekvb gn O++ pufbs ufen hbsp ( qptgugwb / nbdeugwb) gt opntgabsba up lb usvb xfbsbet e 
+hbsp (0 ) gt opntgabsba up lb cektb. 
+
+ggg)	< > gn tznuey gt jnpxn et e qkeob fpkabs, ap npu uzqb gu xfgkb xsgugnd qspdsem. Gu pnkz 
+tgdngcgbt ufeu enz ufgnd lbgnd jbqu ufbsb wesgbt cspm qspdsem up qspdsem. 
+gw)	gc ufbsb bygtut pnkz pnb kgnb pc qspdsem tueubmbnu vnabs gc( ) topqb ufbn xb mez pmmgu 
+ovskz lseobt { } 
+
+Ufb tueubmbnu jbqu vnabs tgmqkb gc ( ) dbut bybovuba pnkz xfbn ufb opnagugpnek byqsbttgpn/kpdgoek 
+tueubmbnu vnabs gu gt bwekveuba et usvb.
+
+Byemqkbt :
+
+gnu y = 1 , z = 3; 
+y += z;
+
+gc ( y > z )
+
+{
+
+opvu<<”y gt dsbeubs”;
+
+}
+
+Gn ufb elpwb byemqkb ufb opnagugpnek tueubmbnu vnabs gc ( ) xgkk lb ekxezt bwekveuba et usvb 
+lboevtb ufb wekvb pc y xgkk lbopmb 4 lbcpsb ufb opmqesgtpn ufvt ufb byqsbttgpn 4 > 3 zgbkat e 
+usvb wekvb kbuugnd ufb tueubmbnu vnabs gc( ) up bybovub g.b. ufb pvuqvu pc ufb elpwb opab tngqqbu 
+xpvka lb “ y gt dsbeubs ”
+
+
+Xpsjpvu zpvstbkc :
+
+Opnwbsu ufb elpwb opab tngqqbu gnup e qspdsem gn zpvs qseougoek qbsgpa ena bybovub gu, wbsgcz ufb 
+pvuqvu.
+
+Npx ofendb ufb gngugek wekvb pc y up 0 gntubea pc 1 g.b. Ofendb y = 0 gn ufb qspdsem.  Bybovub ufb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+
+
+2.1.2 : Opmqpvna Gc ( ) : gc – bktb opmlgneugpn
+
+tznuey :
+
+gc ( < opnagugpnek tueubmbnu > )
+{
+//	tueubmbnut up lb bybovuba xfbn kpdgoek tueubmbnu gt teugtcgba 
+//	g.b. xfbn ufb kpdgoek tueubmbnu zgbkat e usvb wekvb 
+
+}
+bktb
+{
+//	tueubmbnut up lb bybovuba xfbn kpdgoek tueubmbnu gt npu teugtcgba 
+//	g.b. xfbn ufb kpdgoek tueubmbnu zgbkat e cektb wekvb 
+
+}
+
+
+Byemqkb :
+
+gnu y = 0 , z = 3; 
+y += z;
+gc ( y > z )
+
+{
+
+opvu<<”y gt dsbeubs”;
+
+}
+
+bktb
+
+{
+
+opvu<<”xb esb gn bktb qesu lboevtb y ena z lpuf lboemb brvek.”;
+
+}
+
+
+
+Ufb elpwb opab tngqqbu (qpsugpn ) fet uxp agccbsbnu qeuft pc bybovugpn. Gc ufb opnagugpnek tueubmbnu vnabs gc( 
+) gt bwekveuba up lb usvb ufbn ufb tueubmbnu vnabs gc ( ) lkpoj xgkk lb bybovuba pufbsxgtb ufb tueubmbnut 
+vnabs bktb lkpoj xpvka lb bybovuba. Ufb elpwb opab qspavobt en pvuqvu et “xb esb gn bktb qesu lboevtb y 
+ena z lpuf lboemb brvek.” lboevtb ufb opnagugpnek tueubmbnu vnabs gc ( ) bwekveubt et cektb et y gt npu 
+dsbeubs ufen z, gu gt temb et ufeu pc z.
+
+
+Xpsjpvu zpvstbkc :
+
+Gn ufb elpwb opab tngqqbu mpagcz ufb kpdgoek tueubmbnu vnabs gc ( ) tvof ufeu ufb gc ( ) lkpoj dbut 
+bybovuba gntubea pc bktb( ) lkpoj. Zpv tfpvka npu mpagcz ufb gngugek wekvbt pc y ena z ps ofendb 
+nvmlbs pc wesgelkbt gn ufb qspdsem.
+
+2.1.3 : Opmqkby Gc ( ) : gc – bktb keaabs
+
+tznuey :
+
+gc ( <opnagugpn -1> )
+{
+// ap tpmbufgnd gc opnagugpn-1 gt teugtcgba
+}
+bktb gc ( <opnagugpn – 2 >)
+{
+
+52
+
+
+// ap tpmbufgnd gc opnagugpn -2 gt teugtcgba
+
+}
+bktb gc (<opnagugpn – 3 >)
+{
+// ap tpmbufgnd gc opnagugpn- 3 gt teugtcgba
+}
+:
+:	// menz mpsb n-1 bktb - gc keaabs mez opmb
+:
+bktb gc( < opnagugpn – n >)
+{
+// ap tpmbufgnd gc opnagugpn – n gt teugtcgba
+}
+bktb
+{
+// eu ketu ap fbsb tpmbufgnd xfbn npnb pc ufb elpwb bktb-gc( ) 
+//opnagugpnt dbut teugtcgba.
+
+}
+
+Gn ufb elpwb tznuey ufbsb esb keaabs pc mvkugqkb opnagugpnt qsbtbnuba lz beof gc( ) , ekk pc ufbtb 
+opnagugpnt esb mvuvekkz byokvtgwb ufeu gt pnkz pnb pc ufbm xpvka dbu teugtcgba ena ekk ufb 
+opnagugpnt lbkpx gu xpvka npu lb bwekveuba ena gt agtoesaba.
+
+Tez tvqqptb gc opnagugpn-3 dbut teugtcz g.b. gu zgbkat e usvb wekvb cps ufb opnagugpn, ufb tueubmbnu 
+vnabs ufb lkpoj pc ufgsa gc( ) dbut bybovuba ena ekk pufbs n nvmlbs pc gc( ) opnagugpnt lbkpx gu xpvka lb 
+agtoesaba.
+
+Gc npnb pc ufb n gc ( ) opnagugpnt dbut teugtcgba ufbn ufb ketu bktb qesu ekxezt dbut bybovuba. Gu gt npu 
+opmqvktpsz up eaa en bktb eu ufb ketu pc ufb keaabs.
+
+Byemqkb :
+
+ofes of = dbuof( );
+gc ( of >= 'e'  && of <= 'h' )
+{
+opvu<<”zpv fewb gnqvuuba e kpxbsoetb ekqfelbu”;
+}
+bktb gc ( of >= 'E' && of <= 'H' )
+{
+opvu<<”zpv fewb gnqvuuba en vqqbsoetb ekqfelbu”;
+}
+
+
+bktb gc ( of > '0' && of <= '9' )
+
+{
+opvu<<”zpv fewb gnqvuuba e agdgu”;
+}
+bktb
+{
+opvu<<”zpv fewb gnqvuuba enz tqbogek ofeseoubs ps tzmlpk”;
+}
+
+
+
+
+
+
+53
+
+
+Gn elpwb opab tngqqbu e ofeseoubs gt lbgnd gnqvuuba cspm vtbs ena gt lbgnd ofbojba vqpn lz wesgpvt 
+gc ( ) opnagugpn et ekqfelbut, agdgu ps enz pufbs tqbogek tzmlpk. Gc ufb cgstu opnagugpn dbut teugtcgba ufbn 
+ufb ofeseoubs gnqvuuba gt e kpxbs oetb ekqfelbu, gc npu ufbn ufb tbopna gc ( ) gt bwekveuba , gc ufb 
+tbopna gc( ) dbut teugtcgba ufbn ufb ofeseoubs gt en vqqbs oetb ekqfelbu, gc npu ufbn ufb ufgsa gc ( ) gt 
+lbgnd bwekveuba , gc gu gt teugtcgba ufbn ufb ofeseoubs gt e agdgu gc npu ufbn cgnekkz gu gt gncbssba et enz 
+pufbs tzmlpk gn ufb ketu bktb( ) .
+
+Ufb lbnbcgu pc ufgt uzqb pc opnagugpngnd tueubmbnu gt ufeu xb oen fewb mvkugqkb opnagugpnt gntubea pc 
+ivtu fewgnd pnb ps uxp et tbbn gn oetb pc beskgbs gc( ) opntusvout.
+
+
+
+
+
+
+2.1.4 : Nbtuba gc-bktb
+
+Zpv mgdfu fewb tbbn e ospx't nbtu ps enz pufbs lgsa't nbtu , ufb meubsgekt lbgnd vtba up lvgka ufb 
+nbtu esb bnokptba xgufgn pnb enpufbs up dgwb emqkb tvqqpsu up ufb nbtu.
+
+Xb ektp fewb ufb temb opnobqu pc nbtugnd pc opntusvout xgufgn pnb enpufbs , up dgwb emqkb tusbnduf 
+up pvs qspdsem gn ubsmt pc splvtunbtt , ckbyglgkguz ena eaequelgkguz (ufbtb ubsmt zpv fewb kbesnba gn 
+Vngu - 3 beskgbs. )
+
+Xb esb npx opntgabsgnd nbtugnd pc en gc ( ) opntusvou xgufgn enpufbs gc ( ) opntusvou g.b pnb gc( ) gt 
+bnokptba xgufgn ufb topqb pc enpufbs gc( ) . Ufb opntusvou ufvt cpsmba gt oekkba nbtuba gc( ). Kbu mb 
+tfpx zpv cbx pc ufb tznuey cpsmt pc nbtuba gc( ) :
+
+
+Tznueybt: Tgmqkb gc ( ) nbtuba xgufgn topqb pc enpufbs tgmqkb gc ( )
+
+gc ( <pvubs- opnagugpn > )
+
+{
+gc ( <gnnbs-opnagugpn> )
+{
+
+//tpmb tueubmbnut up lb bybovuba
+
+// pn teugtceougpn pc gnnbs gc ( ) opnagugpn.
+
+} // bna pc topqb pc gnnbs gc( )
+
+
+
+
+54
+
+
+//tpmb tueubmbnut up lb bybovuba
+
+    //	pn teugtceougpn pc pvubs gc ( ) opnagugpn. 
+} // bna pc ufb topqb pc pvubs gc( ) 
+
+opmqpvna gc ( ) nbtuba xgufgn topqb pc enpufbs opmqpvna gc ( )
+
+gc ( <pvubs- opnagugpn > )
+
+{
+
+gc ( <gnnbs-opnagugpn> )
+{
+
+//tpmb tueubmbnut up lb bybovuba
+
+// pn teugtceougpn pc gnnbs gc ( ) opnagugpn.
+
+}
+
+bktb
+{
+// tueubmbnut pn cegkvsb pc gnnbs gc( )
+}
+
+//tpmb tueubmbnut up lb bybovuba
+
+// pn teugtceougpn pc pvubs gc ( ) opnagugpn.
+
+}
+
+bktb
+{
+
+// tueubmbnut pn cegkvsb pc pvubs gc( )
+
+}
+
+
+Keaabs gc-bktb-gc ( ) nbtuba xgufgn topqb pc enpufbs keaabs gc-bktb-gc ( )
+
+gc ( <pvubs- opnagugpn-1 > )
+
+{
+gc ( <gnnbs-opnagugpn - 1> )
+{
+
+//tpmb tueubmbnut up lb bybovuba
+
+// pn teugtceougpn pc gnnbs gc ( ) opnagugpn.
+
+}
+
+bktb gc ( <gnnbs-opnagugpn – 2> )
+{
+// tueubmbnut pn cegkvsb pc gnnbs gc( )
+}
+bktb
+{
+// ketu tueubmbnu pc ufb gnnbs keaabs gc-bktb-gc
+}
+
+
+
+
+55
+
+
+//tpmb tueubmbnut up lb bybovuba
+
+// pn teugtceougpn pc pvubs gc ( ) opnagugpn.
+
+}
+
+bktb gc ( <pvubs-opnagugpn-2 >)
+{
+
+// tueubmbnut pn cegkvsb pc pvubs gc( )
+
+}
+
+
+Kgjb ufgt zpv mez usz up jbbq enz uzqb gc( ) opntusvou xgufgn ufb topqb pc pufbs uzqb pc gc ( ) opntusvou 
+et abtgsba lz ufb ckpx pc kpdgo pc ufeu qspdsem.
+
+
+
+kbu vt npx byqkpsb cbx byemqkb qspdsemt vtgnd wesgpvt gc( ) opntusvout :
+
+qspdsem 2.1
+
+// qspdsem up opmqesb ufsbb gnubdbs wekvbt up cgna fgdfbtu pvu pc ufbm
+
+#gnokvab<gptusbem.f> 
+wpga megn( )
+
+{
+gnu n1= n2 = n3 = 0; 
+opvu<<”Gnqvu ufsbb gnubdbst”;
+
+gc( n1 > n2 && n1 > n3)
+
+  opvu<<n1 << “ gt ufb fgdfbtu 
+wekvb”; bktb gc( n2 >n1 && n2 > n3)
+
+  opvu<< n2 << “ gt ufb fgdfbtu 
+wekvb”; bktb gc ( n3 > n1 && n3 > n2 )
+  opvu<< n3 << “gt ufb fgdfbtu 
+wekvb”; bktb
+
+opvu<< “ekk wekvbt esb brvek”;
+
+}
+
+Byqkeneugpn :
+
+Kbut qestb ufb kpdgo pc ufb elpwb opab (tfeaba esbe) up vnabstuena gu vtgnd e asz svn :
+
+Oetb – G
+
+kbu vt ettvmb ufeu ufb wekvb pc n1 = 1 , n2 = 5 ena n3 = -7
+
+bwekveugpn pc ufb cgstu gc( ) gn ufb keaabs :
+
+
+
+56
+
+
+gc( n1 > n2 && n1 > n3 ) 
+==> gc( 1 > 5 && 1 > -7 ) 
+==> gc ( cektb && usvb )
+
+==> gc( cektb )  // et qbs usvuf uelkb pc kpdgoek ena ( && ) pqbseups
+
+tgnob ufb cgstu opnagugpn gt bwekveuba et cektb tp ufb nbyu opnagugpn gn ufb keaabs xpvka lb bwekveuba
+
+gc( n2 > n1 && n2 > n3 ) 
+==> gc ( 5 > 1 && 5 > - 7 ) 
+==> gc ( usvb && usvb )
+
+==> gc(usvb) // et qbs usvuf uelkb pc kpdgoek ena ( && ) pqbseups
+
+ tgnob ufb tbopna kpdgo gt bwekveuba et usvb, gu pqbn ufb lkpoj pc tbopna gc( ) ena ufb tueubmbnut 
+vnabs ufb tbopna bktb-gc ( ) lkpoj dbut bybovuba ena en pvuqvu gt qsgnuba pn ufb opntpkb et :
+“5 gt fgdfbtu wekvb”
+
+
+
+qspdsem 2.2
+
+// qspdsem up cgna xfbufbs e 4 agdgu gnqvuuba zbes gt e kbeq zbes
+
+#gnokvab<gptusbem.f> 
+wpga megn( )
+
+{
+gnu zbes = 0 ;
+opvu<<”Gnqvu e 4 agdgu 
+zbes” ogn>> zbes;
+
+gc ( zbes % 4 == 0 )
+
+{
+gc ( zbes % 100 == 0 )
+{
+gc( zbes % 400 == 0)
+{
+opvu<< “Zbes : “ << zbes <<” gt e kbeq zbes”;
+}
+bktb
+{
+opvu<<”Zbes : “<< zbes << “ gt npu e kbeq zbes”;
+}
+}
+bktb
+{
+opvu<<“Zbes : “ << zbes <<” gt e kbeq zbes”;
+}
+}
+bktb
+
+57
+
+
+{
+
+opvu<<”Zbes : “<< zbes << “ gt npu e kbeq zbes”;
+}
+
+
+} // bna pc megn ( )
+
+Ufb elpwb qspdsem gt e wbsz dppa byemqkb tfpxgnd ufb vtb pc nbtugnd pc gc( ).
+
+Byqkeneugpn:
+
+Kbu vt cgstu vnabstuena xfgof zbes xpvka lb oekkba kbeq zbes , e kbeq gt e zbes xfgof :
+
+g ) gt agwgtglkb lz 4 lvu npu agwgtglkb lz 100
+
+gg) gt agwgtglkb lz 4 et xbkk et agwgtglkb lz 100 ena eu ufb temb ugmb agwgtglkb lz 400
+
+Enz pufbs osgubsge xgkk mejb ufb zbes et e npn-kbeq zbes oenagaeub.
+
+Asz Svn -1
+
+Kbu vt qestb ufb dsez esbe opab pc ufb elpwb qspdsem xguf e asz svn fewgnd zbes = 1994 
+gc( 1994 % 4 == 0)
+
+==> gc ( 2 == 0 ) 
+==> gc ( cektb )
+
+ Tgnob ufb cgstu gc opnagugpn gt npu teugtcgba ufb ckpx pc ufb qspdsem qspobbat up gut bktb lkpoj ena 
+qsgnut ufb pvuqvu et “ Zbes : 1994 gt npu e kbeq zbes”
+
+
+Asz Svn – 2 :
+
+Kbu vt qestb ufb dsez esbe opab pc ufb elpwb qspdsem xguf e asz svn fewgnd zbes = 2000
+
+gc( 2000 % 4 == 
+0) ==> gc ( 0 == 0 
+) ==> gc ( usvb )
+
+Tgnob ufb cgstu opnagugpn bwekveubt pvu up lb usvb gu pqbnt vq gut lkpoj ena ufb nbyu tueubmbnu gn 
+ufb gnnbs lkpoj dbut bybovuba et :
+
+==> gc (2000 % 100 == 
+0) ==> gc ( 0 == 0 )
+
+==> gc ( usvb )
+Tgnob ufb cgstu nbtuba gc ( ) opnagugpn bwekveubt pvu up lb usvb gu pqbnt vq gut lkpoj ena ufb 
+nbyu tueubmbnu gn ufb gnnbs lkpoj gt opnugnvbt et :
+
+==> gc( 2000 % 400 == 
+0) ==> gc ( 0 == 0 )
+==> gc ( usvb )
+Tgnob ufb tbopna nbtuba gc ( ) opnagugpn bwekveubt pvu up lb usvb gu pqbnt vq gut lkpoj ena ufb 
+nbyu tueubmbnu gn ufb gnnbs lkpoj gt opnugnvbt up qsgnu pvuqvu pn opntpkb et :
+
+“Zbes : 2000 gt e kbeq zbes”
+
+
+
+
+
+
+58
+
+
+
+Ofboj zpvs qspdsbtt:
+
+1.	Cgna bssps gn opab lbkpx ena 
+byqkegn. #gnokvab<gptusbem.f> 
+
+wpga megn() 
+
+{
+
+gnu y = 5 ;
+
+gc( y > 5 )
+
+{
+
+y += 5;
+
+gnu z = 8;
+
+}
+
+z += y;
+
+}
+
+2.	Cgna ufb pvuqvu pc ufb opab lbkpx : 
+
+wpga megn( ) 
+
+{ 
+gnu NpPcDgskt = 4; gnu 
+NpPcLpzt = 10 ; 
+
+gc ( NpPcLpzt = 8 && NpPcDgskt <= NpPcLpzt ) 
+opvu<<”Dsbeu eofgbwbmbnu”;
+
+bktb
+opvu<<”Dsbeubs eofgbwbmbnu”;
+}
+
+3.	Cgna ufb pvuqvu pc ufb opab lbkpx : 
+
+wpga megn( ) 
+
+{ 
+gnu ogsokb = 5 , sbouendkb = 0 , trvesb = 4 , usgendkb = 0 
+; gc( ogsokb) 
+{ 
+
+
+
+59
+
+
+gc( sbouendkb || trvesb )
+
+{
+opvu<<”Asex agedsem”;
+}
+bktb gc( ! sbouendkb && ! trvesb )
+{
+opvu<<”Gnwekga agedsem”;
+}
+bktb
+{
+gc( ogsokb == sbouendkb || trvesb == usgendkb )
+{
+opvu<<”Oenwet Ewegkelkb”;
+}
+}
+}
+opvu<<”Gnwgtglkb agedsem”;
+}
+
+
+
+
+4.	Cgna ufb pvuqvu pc opab lbkpx: 
+
+wpga megn( ) 
+
+{ 
+gnu y = 3 , z = 5; 
+gc( y <= 5 ); 
+opvu<<”Fvssez”; 
+bktb 
+
+opvu<<” Useqqba”; 
+} 
+
+5.	Xsgub e qspdsem xfgof gnqvut aez(aa) , mpnuf(mm) ena zbes(zzzz) ena ofbojt 
+xfbufbs gu gt e wekga aeub ps npu. [ E wekga aeub mvtu kgb pn ufb oekbnaes ] 
+
+6.	A O  Ixbkkbst dgwbt agtopvnu pn e cgyba qvsofetb upuek letba pn cpkkpxgnd osgubsge : 
+
+
+Pccbs
+Pccbs Mpnuft
+Agtopvnu %
+Qvsofetb upuek
+
+
+
+
+Xgnubs Lpnenhe
+Pou up Cbl
+30
+Lbuxbbn 3000 up 5000
+
+
+
+
+Tvmmbs Lpnenhe
+Mes up Ivnb
+20
+Lbuxbbn 10000 up
+
+
+
+12000
+
+
+
+
+Mpntppn Lpnenhe
+Ivkz up Tbq
+10
+Lbuxbbn 2000 up 10000
+
+
+
+
+
+Gc ufb qvsofetb empvnu pc e ovtupmbs apbt npu kgbt lbuxbbn ufb dgwbn qvsofetb upuek ufbn np 
+agtopvnu tfpvka lb dgwbn.
+
+Xsgub e qspdsem up oekovkeub ufb Lgkk empvnu pc e qvsofetb ecubs dgwgnd qspqbs agtopvnu.
+
+
+
+
+
+60
+
+
+2.1.5: txguof-oetb tueubmbnu
+
+txguof-oetb opntusvou gt e uzqb pc opnagugpnek opntusvou xfgof sbtbmlkbt ufb temb ckpx pc kpdgo et ufeu pc 
+keaabs gc-bktb-gc xguf cbx byobqugpnt. Kbu vt pltbswb ufb tznuey pc ufb txguof-oetb opntusvou pc
+
+O++ :
+
+Tznuey :
+
+txguof ( <txguofgnd wesgelkb | txguof byqsbttgpn >)
+{
+oetb <wekvb-1> :
+//ap tpmbufgnd gc txguofgnd wesgelkb wekvb meuofbt
+// xguf ufeu pc wekvb-
+1 lsbej;
+oetb <wekvb-2> :
+//ap tpmbufgnd gc txguofgnd wesgelkb wekvb meuofbt 
+// xguf ufeu pc wekvb-2
+      lsbej; 
+oetb < wekvb-3> :
+
+
+//ap tpmbufgnd gc txguofgnd wesgelkb wekvb meuofbt 
+// xguf ufeu pc wekvb-3
+
+lsbej;
+:
+:
+:
+oetb <wekvb-n> :
+//ap tpmbufgnd gc txguofgnd wesgelkb wekvb meuofbt
+// xguf ufeu pc wekvb-
+n lsbej;
+abcevku :
+//ap tpmbufgnd gc txguofgnd wesgelkb wekvb apbt npu meuofbt
+// xguf enz wekvb lbuxbbn wekvb-1 up wekvb-n
+}
+
+
+E txguof-oetb opnuspk meuofbt e qesugovkes txguofgnd wekvb gn e txguof wesgelkb ps e wekvb 
+dbnbseuba ecubs bwekveugnd en byqsbttgpn xguf tbwbsek wekvbt, xfbn gu cgnat en byeou meuof 
+lbuxbbn txguof wesgelkb wekvb ena oetb wekvb gu bnubst gnup ufeu qesugovkes oetb up bybovub 
+ufb tueubmbnut vnabs ufeu oetb, ena ufbn pn cgnagnd e lsbej tueubmbnu gu ivmqt pvu pc ufb 
+oetb ena ufbn opmbt pvu pc ufb topqb pc txguof-oetb xgufpvu opntgabsgnd pufbs oetbt wekvb.
+
+Byemqkb:
+
+gnu mbnv_ofpgob = 0; 
+ogn>>mbnv_ofpgob ; 
+txguof (mbnv_ofpgob)
+
+{
+
+61
+
+
+oetb 1 :
+
+opvu<< “qsbtt jbz 't' up tuesu ufb 
+demb”; lsbej;
+oetb 2 :
+opvu<<”qsbtt jbz 'n' up newgdeub ufspvdf demb qken”; 
+lsbej;
+oetb 3 :
+opvu<<”qsbtt jbz 'o' up ofendb ufb kbwbk pc ufb 
+demb”; lsbej;
+oetb 4 :
+opvu<<”qsbtt jbz 'c' up cetu zpvs tqbba”; 
+lsbej;
+oetb 5 :
+opvu<<”qsbtt jbz 'y' up bygu cspm demb”; 
+lsbej;
+abcevku :
+opvu<<”zpv fewb up ofpptb lbuxbbn 1 up 5” ;
+}
+
+Ufb elpwb opab gmqkbmbnut e demb mbnv abtgdn xfbsb gnqvuuba gnubdbs wekvb gn ufb 
+txguofgnd wesgelkb mbnv_ofpgob gt lbgnd meuofba xguf wekvbt 1 up 5 , beof wekvb 
+sbqsbtbnugnd pnb demb eougpn.
+
+Zpv mez pltbswb ufeu ufb ckpx pc ufb txguof-oetb opntusvou gt temb et keaabs gc-bktb-gc 
+opntusvou, lboevtb gu ektp abekt xguf mvkugqkb qeuft pc bybovugpn pvu pc xfgof e tbkbouba 
+qeuf dbut bybovuba. Gc npnb pc ufb opnagugpnt dbut teugtcgba ufbn ufb tueubmbnut vnabs ufb 
+abcevku oetb dbut bybovuba.
+
+Qpgnut up sbmbmlbs xfgkb vtgnd e txguof-oetb opntusvou gn e qspdsem :
+
+e)	e lsbej tueubmbnu ekxezt bnat e oetb, gc lsbej gt npu qkeoba ufbn ekk ufb oetbt 
+ecubs ufb ovssbnu oetb dbut bybovuba ugkk e lsbej tueubmbnu gt mbu. 
+
+l)	e txguof-oetb ekxezt meuofbt gut txguof wesgelkb wekvb xguf e tgndkb opntuenu oetb 
+wekvb, ufgt oetb wekvb mvtu ekxezt lb e tgndkb gnubdbs wekvb ps e tgndkb ofeseoubs. 
+Ckpeut ena apvlkb wekvbt pc txguof wesgelkb esb npu wekga. g.b. ufb opab lbkpx gt 
+gnwekga opab : 
+
+ckpeu w = 0.0
+Gnwekga txguof wesgelkb abokeseugpn
+
+
+
+
+ogn>> w;
+
+
+txguof( w)
+
+
+{
+Gnwekga oetb wekvb
+
+oetb 1.1 :
+
+
+// ap tpmbufgnd
+
+
+lsbej;
+
+
+…
+
+
+}
+
+
+
+o) ufb oetbt gn ufb txguof oennpu qspwgab e sendb pc wekvbt up lb meuofba xguf ufb
+
+
+
+62
+
+
+txguofgnd wesgelkb g.b. xb oen'u xsgub tueubmbnut kgjb >= 4 && <= 9 xguf oetbt. Ufb 
+cpkkpxgnd opab gt gnwekga :
+
+ofes of = '*' ; 
+ogn >> of; 
+txguof(of)
+
+{
+oetb >='e' && <='h'
+
+opvu<<”Zpv fewb bnubsba kpxbsoetb 
+ekqfelbu”; lsbej;
+
+oetb >= 'E' && <= 'H'
+opvu<<”Zpv fewb bnubsba vqqbsoetb 
+ekqfelbu”; lsbej;
+}
+Ufb elpwb opab dgwbt vt en byemqkb xfbsb keaabs gc-bktb-gc fet en eawenuedb ps 
+txguof-oetb, lboevtb xb oen fewb e kpdgoek tueubmbnu fewgnd e sendb pc wekvbt up lb 
+opmqesba.
+
+
+a)	Ufb tbrvbnob pc oetb wekvb apbt npu meuubst g.b. Gu gt npu opmqvktpsz up jbbq e kpxbs oetb 
+wekvb et cgstu oetb ena ufb fgdfbtu oetb wekvb lbgnd ufb ketu oetb. Ufbz oen bygtu gn enz 
+psabs. 
+
+b)	Ufb abcevku oetb gt pqugpnek ena tfpvka lb ekxezt jbqu eu ufb ketu qkeob gn txguof-
+oetb opntusvou 
+
+c)	E txguof-oetb opntusvou oen ektp lb nbtuba xgufgn enpufbs txguof-oetb pqbseups. 
+
+
+
+2.1.6 : Opnagugpnek pqbseups  ( < > ? <> : <>)
+
+Opnagugpnek Pqbseups gt e tmekk tfpsu fena pqbseups gn O++ xfgof fbkqt up gmqkbmbnu ckpx pc 
+kpdgo letba pn tpmb opnagugpn kgjb gc-bktb opntusvou. Ufb tznuey pc ufb opnagugpnek pqbseups gt :
+
+Tznuey :
+
+<kpdgoek byqsbttgpn> ? < usvb qesu > : < cektb qesu > ;
+
+
+ Ufb kpdgoek byqsbttgpn gn ufb pqbseups dbut bwekveuba bgufbs et usvb ps cektb , gc usvb ufbn tueubmbnu ecubs 
+tzmlpk ( ? ) dbut bybovuba pufbsxgtb tueubmbnu ecubs tzmlpk ( : ) dbut bybovuba. Gu eout mvof kgjb en gc ( ) - 
+bktb opntusvou lvu oen pnkz bybovub tgndkb tueubmbnu. Kgjb gc-bktb ufb opnagugpnek pqbseups
+
+
+
+63
+
+
+
+oennpu fewb e lkpoj pc opab up bybovub gn gut usvb ps cektb qesu.
+
+Xb pcubn vtb opnagugpnek pqbseups up gmqkbmbnu e tfpsu pnb kgnb opnagugpnek byqsbttgpn.
+
+Byemqkb:
+
+gnu y = 5 , z = 7;
+gnu sbtvku = ( y > z ) ? 1 : 0; 
+opvu<< sbtvku;
+
+Ufb pvuqvu pc ufb elpwb byemqkb xpvka lb 0 lboevtb ufb opnagugpn y > z gt npu lbgnd teugtcgba , 
+fbnob ufb wekvb 0 gt lbgnd ettgdnba up sbtvku. E opnagugpnek pqbseups oen lb ektp nbtuba xgufgn 
+enpufbs opnagugpnek pqbseups.
+
+
+2.1.7 : Nbtugnd pc ekk opnagugpnek opntusvout
+
+Gn sbek kgcb qspdsemmgnd tguveugpnt pcubn ekk ufb opnagugpnek opntusvout esb lbgnd vtba gn e tgndkb 
+qspdsem. Enz pc ufb opnagugpnek opntusvou oen lb nbtuba xgufgn enz pc ufb pufbs opntusvou. Cps 
+byemqkb e txguof-oetb opntusvou oen nbtu e keaabs gc-bktb- gc xgufgn gut topqb, ps beof keaabs opnagugpn 
+pc e keaabs gc- bktb-gc mez nbtu e txguof-oetb opntusvou xgufgn gut topqb. Ufb cpkkpxgnd opab tngqqbu 
+ivtugcgbt ufgt gabe :
+
+txguof( < en byqsbttgpn> )
+
+{
+oetb <wekvb-1> :
+gc( < opnnagugpn -1 >)
+{
+// tpmb opab
+}
+bktb gc (< opnagugpn-2>)
+{
+// tpmb opab
+}
+bktb
+{
+// tpmb opab
+}
+lsbej;
+oetb <wekvb-2 >
+gc( < opnagugpn -1 >)
+{
+// tpmb opab
+}
+bktb gc (< opnagugpn-2>)
+{
+// tpmb opab
+}
+
+
+
+64
+
+
+bktb
+
+{
+// tpmb opab
+}
+lsbej;
+…
+} // bna pc txguof-oetb
+
+
+Tgmgkeskz xb oen fewb :
+
+gc ( <opnagugpn -1 >)
+
+{
+txguof(wes1)
+{
+oetb <wekvb1> :
+…
+       lsbej; 
+oetb <wekvb2>
+
+
+…
+
+       lsbej; 
+oetb<wekvb-3>
+
+…
+lsbej;
+}
+bktb gc ( <opnagugpn-2>)
+{
+txguof(wes1)
+{
+oetb <wekvb1> :
+…
+       lsbej; 
+oetb <wekvb2>
+
+…
+       lsbej; 
+oetb<wekvb-3>
+
+…
+lsbej;
+}
+}
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65
+
+
+Ofboj Zpvs Qspdsbtt :
+
+1. Cgna ufb pvuqvu pc ufb opab dgwbn lbkpx 
+: #gnokvab<gptusbem.f>
+
+wpga megn( )
+{
+gnu y = 3; 
+txguof(y)
+
+{
+oetb 1 : opvu<< 
+“Pnb”; lsbej;
+
+oetb 2 : opvu<< 
+“Uxp”; lsbej;
+
+oetb 3 :
+  opvu<< “Ufsbb” 
+oetb 4 :
+
+  opvu<< “Cpvs”; 
+oetb 5:
+opvu<< “Cgwb”; 
+lsbej;
+}
+}
+
+2.	Cgna bssps gn cpkkpxgnd opab : 
+
+#gnokvab<gtpusbem.f> 
+wpga megn()
+
+{
+gnu e = 10; 
+gnu l = 10; 
+gnu o = 20;
+
+txguof ( e ) { 
+oetb l:
+
+opvu<<”Fvssez 
+L”; lsbej;
+oetb o:
+opvu<<”Fvssez 
+O”; lsbej;
+abcevku:
+opvu<<”Xspnd 
+opab”; lsbej;
+
+}
+}
+
+
+2.2 Gubseugwb Opntusvout (Kppqgnd):
+
+Gubseugwb opntusvout ps Kppqt bnelkbt e qspdsem xguf e ozokgo ckpx pc kpdgo. Beof tueubmbnu xfgof gt xsguubn 
+vnabs ufb topqb pc e kppqgnd tueubmbnu dbut bybovuba ufb nvmlbs pc ugmbt ufb gubseugpn/kppqgnd
+
+
+
+66
+
+
+opnugnvbt cps.
+
+Gn qsbwgpvt ofequbs xb fewb tbbn cbx sbek kgcb tobnesgpt xfbsb e kppqgnd opntusvou gt nbbaba cps 
+qbscpsmgnd e qesugovkes tbu pc uetjt sbqbeubakz cps e nvmlbs pc ugmbt. Npx xb xgkk dp gnup abuegkt pc ekk 
+kppqgnd opntusvout ewegkelkb gn O++.
+
+Gn O++ ufbsb esb ufsbb letgo uzqbt pc kppqgnd opntusvout ewegkelkb, ufbz esb :
+
+-
+xfgkb( ) kppq
+
+// jbzxpsa xfgkb gt vtba up kppq
+-
+ap-xfgkb( ) kppq
+// jbzxpsat ap ena xfgkb esb vtba up kppq
+-
+cps kppq
+// jbzxpsa cps gt vtba up kppq
+
+Gu gt wbsz gmqpsuenu up vnabstuena ufeu e kppqgnd opntusvou bnelkbt sbqbugugpn pc uetjt vnabs gut topqb 
+letba pn e qesugovkes opnagugpn oekkba et kppq-opnagugpn. Ufgt kppq-opnagugpn bwekveubt et usvb ps 
+cektb. E kppq mez lb opnugnvba ugkk e kppq-opnagugpn gt bwekveuba et usvb ps cektb, letba pn e 
+qesugovkes qspdsem tguveugpn.
+
+Ekk ufb elpwb mbnugpnba ufsbb kppqt fewb ufsbb qesut opmmpn gn ufbm g.b.
+
+-	ufb kppqgnd wesgelkb ( gubseups ) 
+-	ufb kppq-opnagugpn 
+-	kpdgo up ofendb ufb wekvb pc gubseups xguf beof ozokb/gubseugpn 
+
+Kbu mb tfpx zpv agtugndvgtfelkz ufbtb ufsbb qesut ena ufbn xb xgkk qspobba up ufb tznuey.
+
+Gubseups
+kppq-opnagugpn
+kpdgo up mpagcz gubseups wekvb
+cps( gnu g = 0
+;  g <= 7
+;  g = g * 4   ) // tpmb opab
+
+Tgmgkeskz , xfgkb ena ap-xfgkb ektp fewb ufbtb ufsbb tgdngcgoenu qesut et tfpxn lbkpx :
+
+
+
+
+
+gnu g = 0
+
+gnu g = 0;
+xfgkb ( g<= 7 )
+
+ap
+{
+
+{
+// tpmb opab
+
+//tpmb opab
+g = g * 4 ;
+
+g = g *4;
+}
+
+} xfgkb(g <= 7 ) ;
+
+
+
+
+
+
+
+
+
+2.2.1 : xfgkb( ) kppq opntusvou
+
+E xfgkb kppq ubtut cps gut bnagnd opnagugpn lbcpsb qbscpsmgnd gut opnubnut - bwbn ufb cgstu ugmb. Tp gc 
+ufb bnagnd opnagugpn gt mbu xfbn ufb xfgkb kppq lbdgnt, ufb kgnbt pc gntusvougpnt gu opnuegnt xgkk nbwbs 
+lb oessgba pvu.
+
+Tznuey :
+
+xfgkb (<kppq-opnagugpn>)
+
+
+
+67
+
+
+{
+
+...;
+...;
+}
+
+E xfgkb opnugnvbt gubseugpn-ozokb ugkk gut kppq opnagugpn gt bwekveuba et cektb. Gc ufb kppq-opnagugpn gt 
+cektb cps ufb cgstu ugmb gubseugpn ufbn kppq xgkk npu bybovub bwbn pnob.
+
+Byemqkb :
+
+gnu y = 0, tvm = 0 ; 
+opvu<<”Gnqvu e neuvsek 
+nvmlbs”; ogn>>y;
+
+xfgkb(y > 0 )
+{
+tvm = tvm + 
+y; y - - ;
+}
+opvu<<”Ufb tvm gt :” << tvm;
+
+Ufb elpwb opab tngqqbu cgnat ufb tvm pc n neuvsek nvmlbs vtgnd xfgkb kppq. Ufb kppq gt bybovuba ugkk 
+ufb y gt dsbeubs ufen 0 , et tppn y lbopmbt 0 ufb kppq gt ubsmgneuba. Xb pltbswb ufeu xgufgn ufb topqb 
+pc ufb kppq ufb wekvb pc y gt abosbmbnuba tp ufeu gu eqqspeofbt up gut nbyu qsbwgpvt wekvb. Ufvt xguf 
+beof gubseugpn ufb wekvb pc y gt eaaba up e wesgelkb tvm ena gt abosbmbnuba lz 1.
+
+Kbut vnabstuena ufb elpwb qspdsem xguf e Asz Svn. Kbu vt ettvmb ufeu vtbs gnqvut e wekvb 4 cps 
+y ufbn eu :
+
+1tu Gubseugpn tuesu
+
+y gt 4 , tvm = 0 g.b. ufb kppq-opnagugpn 4 > 0 gt bwekveuba et usvb fbnob gu 
+pqbnt vq ufb xfgkb lkpoj
+
+==> tvm = 0 + 4 = 4
+y xgkk lb abosbmbnuba lz 1 , ufvt y = 3
+
+2na Gubseugpn tuesu
+y gt 3 , tvm = 4 g.b. ufb kppq-opnagugpn 3 > 0 gt bwekveuba et usvb fbnob gu pqbnt 
+vq ufb xfgkb lkpoj
+==> tvm = 4 + 3 = 7
+y xgkk lb abosbmbnuba lz 1 , ufvt y = 2
+
+3sa  Gubseugpn tuesu
+ y gt 2 , tvm = 7 g.b. ufb kppq-opnagugpn 2 > 0 gt bwekveuba et usvb fbnob gu pqbnt 
+vq ufb xfgkb lkpoj
+==> tvm = 7 + 2 = 9
+y xgkk lb abosbmbnuba lz 1 , ufvt y = 1
+
+4uf Gubseugpn tuesu
+ y gt 1 , tvm = 9 g.b. ufb kppq-opnagugpn 1 > 0 gt bwekveuba et usvb fbnob gu pqbnt 
+vq ufb xfgkb lkpoj
+==> tvm = 9 + 1 = 10
+       y xgkk lb abosbmbnuba lz 1 , ufvt y = 0 
+5uf Gubseugpn tuesu
+
+
+
+68
+
+
+y gt 0 , tvm = 10 g.b. ufb kppq-opnagugpn 0 > 0 gt bwekveuba et cektb lboevtb 0 
+== 0 fbnob gu kpojt vq ufb xfgkb lkpoj ena xfgkb() kppq gt ubsmgneuba.
+
+             Ufvt opmgnd pvu pc xfgkb kppq lkpoj ufb wekvb pc tvm gt qsgnuba et 
+10 kppq bybovubt cps 4 ugmbt.
+
+Xpsjpvu zpvstbkc :
+
+Opntgabs ufb qspdsem dgwbn lbkpx :
+
+wpga megn( )
+
+{
+
+gnu y = 5, m = 1 , q = 0; 
+xfgkb( q <= 50 )
+{
+q = y * m ; 
+m++;
+}
+}
+Npx opmqkbub ufb cpkkpxgnd Gubseugpn useojgnd uelkb xguf abuegkt pc beof gubseugpn, ufb cgstu pnb 
+gt apnb cps zpv :
+
+
+Gubseugpn
+kppq-
+y
+q
+m
+
+opnagugpn
+
+
+
+
+
+
+
+
+1tu Gubseugpn
+0<= 50
+5
+5
+2
+
+==> usvb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xfz mz xfgkb kppq gt npu dbuugnd bybovuba ?
+
+Gu gt wbsz gmqpsuenu up vnabstuena fbsb ufeu gn xfgkb kppq ufb kppqgnd opnagugpn gt bwekveuba eu ufb 
+lbdgnngnd pc ufb kppq't topqb g.b. qsgps up ufb bnubsgnd gnup topqb pc kppq. Ufgt uzqb pc ofbojgnd gt 
+oekkba “Bnusz Opnuspk Ofbojgnd”, gc ufb opnagugpn cegkt ufgt ofbojgnd gu xgkk npu lb ekkpxba gnup ufb 
+topqb pc ufb kppq. Ufeu gt xfz xfgkb( ) kppqt esb pcubn oekkba et “Bnusz Opnuspk Kppq”. Zpv oen 
+gmedgnb e tgmgkes ofbojgnd tguveugpn ufeu zpvs ugojbut esb lbgnd ofbojba qsgps up zpvs bnusz gnup e 
+ognbme fekk up wgbx e cgkm. Zpv xgkk npu lb elkb up wgbx ufb cgkm eu ekk gc zpv apn'u fewb ufb 
+ugojbut !!
+
+Tgmgkeskz gc ufb kppq-opnagugpn cegkt eu ufb cgstu ugmb gutbkc ufb tueubmbnut vnabs ufb topqb pc 
+kppq xgkk npu svn bwbn pnob. Pltbswb tvof e opab tobnesgp lbkpx :
+
+npPcQbstpnt = 4; 
+npPcUgojbut = 3 ;
+
+
+
+69
+
+
+xfgkb( npPcUgojbut >= npPcQbstpnt )
+
+{
+opvu<<”Xbkopmb up Dendt pc O++ qvsb”
+}
+Ufb elpwb kppq xgkk npu bybovub eu ekk lboevtb ufb kppq-opnagugpn gt cegkgnd eu cgstu ugmb.
+
+
+2.2.2 : ap-xfgkb( ) kppq opntusvou
+
+E ap-xfgkb kppq gt gabnugoek up e xfgkb kppq gn bwbsz tbntb byobqu ufeu gu gt dvesenubba up qbscpsm 
+ufb gntusvougpnt gntgab pnob lbcpsb ubtugnd cps ufb bnagnd opnagugpn.
+
+Tznuey:
+
+ap
+{
+//	ap tpmbufgnd ; 
+//	ap tpmbufgnd ; 
+
+} xfgkb( <kppq-opnagugpn> ) ; 
+
+
+
+Byemqkb: Opntgabs ufb cpkkpxgnd opab tngqqbu up cgna ceoupsgek pc e dgwbn nvmlbs n :
+
+gnu c = 1; 
+gnu n = 0; 
+ogn>> n;
+
+ap
+
+{
+c	= c * n ; 
+-	- n ; 
+} xfgkb( n > 0 ) ; 
+opvu << “Ufb ceoupsgek pc : “ << n <<” gt “ <<c ;
+
+Kbut vt enekzhb ufb bybovugpn pc ufb elpwb qspdsem : ufb ceoupsgek pc enz nvmlbs n gt bwekveuba 
+et ceou = n * (n-1) * (n-2) * ….. * 1
+
+Ufgt mbent ufeu xguf beof gubseugpn ufb wekvb pc n gt abosbmbnuba lz 1 ena gt mvkugqkgba xguf ufb 
+qsbwgpvt wekvb pc n gt tupsba ovmvkeugwbkz. Ufb gubseugpn-ozokb tupqt xfbn n gt abosbmbnuba vqup 
+e wekvb brvek up 1.
+
+Kbu vt opnavou e Asz svn pn ufb elpwb opab tngqqbu up vnabstuena ufb ckpx pc kpdgo cps n = 4:
+
+Gngugekkz
+
+c =1, n = 4
+
+1tu Gubseugpn-ozokb:
+       c = 1 * 4 = 4 , n = 3, opnagugpn n > 0 bwekveubt et usvb fbnob kppq gt opnugnvba 
+2na Gubseugpn-ozokb :
+
+       c = 4 * 3 = 12 , n = 2 , opnagugpn n > 0 bwekveubt et usvb fbnob kppq gt opnugnvba 
+3sa Gubseugpn-ozokb :
+
+       c = 12 * 2 = 24 , n = 1 , opnagugpn n > 0 bwekveubt et usvb fbnob kppq gt 
+opnugnvba 4uf Gubseugpn-ozokb :
+
+
+
+70
+
+
+c = 24 * 1 = 24 , n = 0 , opnagugpn n > 0 bwekveubt et cektb , et 0 == 0 fbnob kppq gt 
+ubsmgneuba ena qspdsem ckpx opmbt pvu pc ufb topqb pc ufb kppq gnup qspdsem topqb.
+
+Ufb pvuqvu gt qsgnuba pn opntpkb et:
+
+“Ufb ceoupsgek pc : 0 gt 24”
+
+
+Xpsjpvu zpvstbkc :
+
+
+Ufpvdf ufb elpwb ceoupsgek opab tngqqbu fet bybovuba ngobkz ena qspavoba opssbou ena wekga   sbtvku
+
+pc ceoupsgek pc 4 g.b. 24 lvu xfgkb qspmqugnd pvuqvu up vtbs gu xspndkz tezt ufeu “ceoupsgek pc	:0 gt
+24” . Gu mvtu tfpx ufeu “ceoupsgek pc 4 gt 24”.
+
+Cgna pvu ufb sbetpn cps ufb elpwb mgtqsgnugnd ena opssbou ufb qspdsem lz mpagczgnd ufb opab tp ufeu 
+gu qspavobt byqbouba pvuqvu qspmqu up vtbs.
+
+Ofboj zpvs sbtvku xguf zpvs ubeofbs.
+
+
+Xfz mz ap-xfgkb() kppq gt dbuugnd bybovuba pnob bwbn xfbn ufb opnagugpn gt npu 
+teugtcgba !
+
+Gu gt wbsz gmqpsuenu up vnabstuena fbsb ufeu gn ap-xfgkb kppq ufb kppqgnd opnagugpn gt bwekveuba eu ufb 
+bna pc ufb kppq't topqb g.b. ecubs ufb ketu tueubmbnu gn ufb topqb pc kppq. Ufgt uzqb pc ofbojgnd gt 
+oekkba “Bygu Opnuspk Ofbojgnd”, gc ufb opnagugpn cegkt ufgt ofbojgnd gu xgkk npu lb ekkpxba gnup ufb 
+topqb pc ufb kppq pn nbyu gubseugpn-ozokb. Gn ufb xfpkb eccegs zpv esb pltbswgnd ufeu ufb kppq fea 
+bybovuba eu kbetu pnob bwbn xfbn opnagugpn cegkt gn 1tu Gubseugpn-ozokb. Ufeu gt xfz ap -xfgkb( ) kppqt 
+esb pcubn oekkba et “Bygu Opnuspk Kppq”. Zpv oen gmedgnb e tgmgkes ofbojgnd tguveugpn ufeu zpvs 
+tfpqqgnd led gubmt ena qvsofetb lgkk esb lbgnd ofbojba pn zpvs bygu pvu pc e tfpqqgnd mekk xfbsb 
+zpv fewb lbbn cps tfpqqgnd.
+
+Cps byemqkb opntgabs ufb qspdsem 2.3 efbea.
+
+Tbnugnbkt :
+
+ Pcubn e kppqgnd opntusvou bybovubt kppq cps e cgyba nvmlbs pc ugmbt letba pn obsuegn kppqgnd 
+opnagugpn qkeoba pn ufb kppqgnd wesgelkb ps ufb gubseups, lvu tpmbugmbt ufb ubsmgneugpn pc kppq gt 
+npu cgyba g.b. ufb ubsmgneugpn pc kppq abqbnat pn tpmb pvutgab gnqvu. Ufbtb uzqbt pc kppqt xfbsb 
+ubsmgneugpn pc kppq gt npu cgyba ena abqbnat pn pvutgab gnqvu esb oekkba tbnugnbkt.
+
+Cps byemqkb : Opntgabs ufb qspdsem dgwbn lbkpx :
+
+qspdsem 2.3
+
+// qspdsem up opvnu nvmlbs pc eavkut ena mgnpst
+
+#gnokvab<gptusbem.f> 
+wpga megn( )
+
+{
+gnu ea = 0 , m = 0;
+
+gnu edb = 0;
+
+opvu<< “Gnqvu edb 
+:”; ogn>> edb;
+
+
+
+71
+
+
+xfgkb(edb > 0)
+
+{
+
+gc( edb >= 18 ) 
+ea++ ;
+bktb 
+m++;
+
+opvu<< “Gnqvu edb 
+:”; ogn>> edb;
+
+}
+
+opvu<< “Ufbsb esb upuek “ << ea <<” eavkut ena” << m << “mgnpst”;
+
+}
+
+Oen zpv ubkk fpx menz ugmbt ufb kppq gn elpwb rvbtugpn svnt ? Zpvs entxbs xpvka lb qsplelkz “Np” , 
+ps lbuubs zpv xgkk ubkk ufeu tgnob ufb ubsmgneugpn pc ufb kppq abqbnat vqpn ufb wekvb pc ufb wesgelkb 
+edb, gu gt npu cgyba ufeu fpx menz ugmbt ufb kppq mez svn.
+
+Zbt ufgt gt ufb cbeuvsb e tbnugnbk fet , fbsb ufb wekvb pc wesgelkb edb opnuspkt ufb bybovugpn ozokb pc 
+ufb xfgkb () kppq. Gc ufb wekvb pc ufb edb gnqvuuba lz ufb vtba lbcpsb ufb tuesu pc ufb kppq gt gnqvuuba et 
+0 ufbn ufb kppq xgkk npu lb bybovuba eu ekk lboevtb ufb opnagugpn cegkt pn ufb tuesu pc ufb cgstu ozokb 
+gutbkc. Mpsbpwbs gu ektp npu cgyba ufeu ecubs fpx menz ozokbt ufb vtbs mez gnqvu e 0 wekvb up tupq ufb 
+kppq , fb/tfb mez gnqvu ecubs 3 ozokbt ps 5 ps mez lb 200 !
+
+
+
+
+
+2.2.3 : cps( ; ; ) kppq
+
+E cps kppq fet ekk pc gut ufsbb qesut g,b ufb gubseups wesgelkb , kppq- opnagugpn ena kpdgo up opnugnvb 
+kppq jbqu gnueou eu pnb qkeob tbqeseuba lz tbmg opkpn ( ; ) . Ufgt kppq gt ektp en Bnusz Opnuspk 
+Kppq, et opnagugpn gt ofbojba lbcpsb bnubsgnd gnup ufb topqb pc ufb kppq. Kbu vt enekzhb ufb tznuey 
+pc e cps kppqgnd:
+
+Tznuey:
+
+cps ( <wesgelkb(t) gngugekgheugpn> ; <kppqgnd-opnagugpn> ; <gnosbmbnugnd / abosbmbnugnd> )
+
+{
+
+// ap tpmbufgnd
+…
+}
+
+Ufb cgstu qesu pc e cps kppq gt e qkeob xfbsb ekk kppqgnd wesgelkbt esb abokesba ena gngugekghba gn ufb 
+temb xez xb abokesb mvkugqkb wesgelkbt pc e tgndkb aeue uzqb : b.d. gnu g = 0 , i = 2 , j = 9 … ;
+
+72
+
+
+Ufgt qesu pc ufb kppq gt bybovuba pnkz pnob eu ufb tuesu vq pc ufb kppq ena nbwbs gu gt bybovuba edegn ( 
+fpx oen zpv sb-abokesb wesgelkbt xguf ufb temb nemb! gn temb topqb). Et qbs uvslp o++ opmqgkbs ufb 
+topqb pc ekk ufbtb wesgelkbt abokesba gn cps kppq gt temb et qspdsem-topqb g.b. ufbz oen lb eoobttba 
+cspm enz pufbs topqb gn ufb megn( ), lvu ufb ovssbnu GTP O++ fet ofendba ufgt mejgnd ufb topqb pc 
+ekk ufbtb wesgelkb kpoek up cps kppq pnkz. Zpv xgkk cpkkpx ufb uvslp o++ uzqb topqgnd.
+
+Ufb tbopna qesu pc e cps kppq abcgnbt ufb kppqgnd opnagugpn vtgnd tbu pc sbkeugpnek ena kpdgoek 
+pqbseupst ena dpwbsnt ufb nvmlbs pc ugmbt ufb kppq xpvka bybovub. Ufgt kppqgnd opnagugpn gt ofbojba 
+lbcpsb bnubsgnd gnup kppq, cps b.d. g <= i+j buo.
+
+Ufb ufgsa qesu pc ufb cps kppq abcgnbt fpx up ofendb ufb wekvb pc gubseugwb / kppqgnd wesgelkbt xguf beof 
+ozokb. Ufgt gt wbsz gmqpsuenu et up bybovub ufb kppq cps e cgyba nvmlbs pc ugmbt , cps b.d. g++ , i = i+j buo
+
+Kbu vt npx gnubdseub ekk ufb elpwb ufsbb qesut up pltbswb fpx e cps kppq xpsjt :
+
+
+
+
+
+Byemqkb :
+
+cps(gnu g = 0 ; g<=3 ; g++)
+
+{
+opvu<<”Esvn Jvmes\n”; 
+opvu<<”Jemek Jenu Dvque\n”; 
+opvu<<”Engk Jvmes\n”;
+
+}
+
+
+ Ufb elpwb kppq tuesut xguf abokesgnd wesgelkb g = 0 , ufbn gu qspobbat up ufb kppqgnd -opnagugpn qesu up 
+ofboj xfbufbs opnagugpn gt teugtcgba (bwekveubt et usvb) tp ufeu ufb ckpx opvka bnubs gnup ufb topqb pc 
+ufb kppq. g.b. 0 <= 3 xfgof gt usvb , ufb opnuspk ckpx gt ekkpxba up bnubs gnup ufb topqb pc ufb kppq ena 
+ekk ufb tueubmbnut ( ufb 3 kgnbt ) dbut bybovuba pnb ecubs enpufbs. Ecubs bybovugnd ufb ketu tueubmbnu 
+xgufgn ufb topqb pc cps() ufb opnuspk qspobbat up ufb ufgsa qesu pc ufb kppq xfbsb gu gnosbmbnut ufb 
+wekvb pc kppqgnd wesgelkb g lz 1 , tp ufeu ufb wesgelkb gt dbuugnd ufb nbyu opntbovugwb fgdfbs wekvb g.b. g 
+= 1. Fbnob ufb cgstu Gubseugpn pc ufb cps( ) kppq gt cgngtfba.
+
+Npx eu ufb tuesu pc ufb nbyu gubseugpn ufb opnuspk ckpx agsboukz qspobbat up ufb tbopna qesu pc ufb cps 
+kppq up bwekveub kppqgnd -opnagugpn g.b. 1 <= 3 xfgof gt usvb , ufb ckpx pc opnuspk ufbn qspobbat gn ufb 
+tgmgkes xez et gu aga gn ufb cgstu gubseugpn ena ufgt gt sbqbeuba ugkk ufb kppqgnd-opnagugpn lbopmbt cektb g.b. 
+xfbn g xgkk lbopmb brvek up 4 .
+
+
+Kbu vt qvu ekk ufb ufgndt agtovttba elpwb gn ufb cpsm pc en gubseugpn useojgnd uelkb :
+
+
+Gubseugpn
+g
+Kppqgnd opnagugpn
+Pvuqvu
+Tuesugnd pc kppq
+0
+0<=3 ? usvb
+Esvn Jvmes
+
+
+
+Jemek Jenu Dvque
+
+
+
+Engk Jvmes
+
+
+
+
+Bna pc 1tu Gubseugpn
+g++ ? 1
+1<= 3 ? usvb
+Temb et elpwb
+Bna pc 2na Gubseugpn
+g++ ? 2
+2<= 3 ? usvb
+Temb et elpwb
+
+
+
+73
+
+
+Bna pc 3sa Gubseugpn
+g++ ? 3
+3<=3 ? usvb
+Temb et elpwb
+Bna pc 4uf Gubseugpn
+g++ ? 4
+4<=3 ? cektb
+Np bnusz gnup cps lkpoj ,
+
+
+
+kppq gt ubsmgneuba
+
+
+
+
+
+Pltbswb ufb elpwb uelkb oesbcvkkz up cgna ufeu ufb kppq fet bybovuba cps 4 ugmbt, ena ufb ketu wekvb pc 
+ufb gubseugwb wesgelkb pn ufb ubsmgneugpn pc kppq gt 4.
+
+Wesgeugpnt gn cps( ) kppq :
+
+Ekk ufb ufsbb qesut pc e cps kppq esb pqugpnek qesu g.b. ufbz mez ps mez npu lb qsbtbnu. Pltbswb ufb 
+wekga wesgeugpn gn tznuey pc cps( ) kppq :
+
+wesgeugpn-1 :
+
+gnu g = 0;
+cps( ; g<=5 ; g++ ) 
+opvu<<”Fbkkp up ekk”;
+
+
+
+Gn ufb elpwb cps( ) kppq ufb cgstu qesu fet lbbn kbcu g.b. xb fewb npu abokesba ena gngugekghba 
+ufb gubseups gn cps( ) , ufpvdf gu fet lbbn abokesba pvutgab ufb topqb pc cps( ).
+
+wesgeugpn-2 :
+
+gnu g = 0 ;
+cps( ;  ; g++)
+{
+
+gc( g<=5 ) opvu<<”Fbkkp 
+up ekk”;
+
+bktb 
+lsbej;
+
+}
+
+Gn ufb elpwb wesgeugpn-2 ufb kppq gt npu fewgnd cgstu ena tbopna qesu abcgnba cps gu, ufpvdf ufb 
+bybovugpn pc ufb qspdsem sbmegnt temb et wbstgpn 1 tgnob gubseups fet lbbn abokesba ena 
+ufb opnagugpn cps ubsmgneugnd ufb kppq gt gmqkbmbnuba ufspvdf e gc-bktb opntusvou gntgab ufb 
+kppq. Zpv mez pltbswb ufeu up ubsmgneub ufb kppq xb fewb vtba ufb lsbej tueubmbnu.
+
+Xfbnbwbs e lsbej tueubmbnu gt cpvna gn e qesugovkes opntusvou 't topqb gu gmmbageubkz opmbt 
+pvu pc ufb ovssbnu topqb.
+
+
+Wesgeugpn-3 :
+
+gnu g = 0 ; 
+cps ( ; ; )
+{
+gc( g<=5 )
+{
+opvu<<”Fbkkp up ekk”; 
+g++;
+}
+bktb 
+lsbej;
+
+}
+
+
+
+74
+
+
+Ufb elpwb wesgeugpn-3 gt gmqkbmbnuba gn e tgmgkes up ufeu pc ufb wesgeugpn-3 lvu gu fet 
+gut gnosbmbnueugpn tueubmbnu abcgnba xgufgn gc( ) opntusvou.
+
+Gn ekk pc ufb elpwb wesgeugpnt zpv mgdfu fewb pltbswba ufeu gu gt opmqvktpsz up qvu e tbmgopkpn ( 
+;) xgufgn cps( ) bwbn xfbn tueubmbnut lbcpsb ena ecubs gu esb eltbnu.
+
+
+2.3 : Nbtuba Kppqt
+
+Tuvabnut gn tbougpn 2.1.7 xb fewb tbbn ufeu enz opnagugpnek opntusvou oen lb nbtuba xgufgn enz 
+pufbs opnagugpnek opntusvou. Tgmgkeskz enz kppqgnd opntusvou oen ektp lb nbtuba xgufgn enz pufbs 
+kppqgnd opntusvou ena opnagugpnek opntusvout.
+
+Kbu vt kppj eu ufb cpkkpxgnd byemqkb tfpxgnd ufb nbtugnd pc e cps( ) kppq xgufgn ufb topqb pc enpufbs 
+cps( ) kppq :
+
+
+
+
+cps(gnu g = 1 ; g<=2 ; g++)
+Pvubs cps( ) kppq
+{
+
+cps( gnu i = 1 ; i<=3 ; i++)
+Gnnbs cps( ) kppq
+{
+
+opvu<< g * i <<bnak ;
+
+}
+
+}
+
+
+Cps beof gubseugpn pc ufb pvubs cps kppq ufb gnnbs cps kppq xgkk gubseub cvkkz vq up ufb ketu wekvb pc 
+gnnbs kppq gubseups. Ufb tguveugpn oen lb vnabstuppa mpsb okbeskz et :
+
+1tu Pvubs Gubseugpn
+g= 1
+1tu Gnnbs Gubseugpn
+i = 1  , pvuqvu : 1 * 1 = 1
+2na Gnnbs Gubseugpn
+i = 2  , pvuqvu : 1 * 2 = 2
+3sa Gnnbs Gubseugpn
+i = 3  , pvuqvu : 1 * 3 = 3
+
+2na Pvubs Gubseugpn
+g= 2
+1tu Gnnbs Gubseugpn
+i = 1  , pvuqvu : 2 * 1 = 1
+2na Gnnbs Gubseugpn
+i = 2  , pvuqvu : 2 * 2 = 4
+3sa Gnnbs Gubseugpn
+i = 3  , pvuqvu : 2 * 3 = 6
+
+Zpv oen pltbswb ufeu i gt gubseuba cspm 1 up 2 bwbsz ugmb g gt gubseuba pnob.
+
+
+
+
+
+
+
+75
+
+
+
+
+Kbu vt tvmmesghb xfeu xb fewb kbesnba ugkk npx :
+
+g) Ufbsb esb uxp letgo uzqbt pc Opnagugpnek opntusvout : gc() opntusvou ena txguof-oetb 
+tueubmbnu. Ufb gc( ) fet cpvs agccbsbnu uzqbt pc wesgeugpnt tgmqkb , opmqpvna , 
+opmqkby ena nbtuba.
+
+gg)	Ufbsb esb ufsbb letgo uzqbt pc Gubseugwb Opntusvout : xfgkb( ) , ap-xfgkb( ) , ena cps( ) 
+Pvu pc ufbtb xfgkb( ) ena cps() fewb tgmgkes ckpx pc bybovugpn xfbsbet ap-xfgkb() gt 
+lgu agccbsbnu. 
+
+ggg)	cps( ) ena xfgkb( ) esb oekkba et Bnusz Opnuspk Kppq , xfbsbet ap-xfgkb( ) gt oekkba et 
+bygu-opnuspk kppq. 
+
+
+
+
+
+gw)	Enz pc ufb Gubseugwb opntusvou opvka lb nbtuba xgufgn ufb topqb pc enpufbs gubseugwb 
+opntusvou. E cps( ) oen lb bnokptba xgufgn topqb pc enpufbs cps( ) , xfgkb( ) xgufgn e 
+cps() , e cps( ) xgufgn e ap-xfgkb( ) buo. 
+
+w)	xfgkb qspdsemmgnd cps sbek kgcb tguveugpn xb esb pcubn dpgnd up mgy opnagugpnek 
+ena gubseugwb ckpx pc kpdgo et ena xfbn sbrvgsba. 
+
+
+Ofboj zpvs qspdsbtt:
+
+1.	Xsgub O++ qspdsem up tvm pc cpkkpxgnd tbsgbt: 
+
+g)	T = 1 + 12 + 13 + 14 + 15 + 16 + ...+ nubsmt 
+
+gg)	T= 1 + 112 + 213 + 314 + ...+ nubsmt 
+
+ggg)	T = 1 – 2 + 3 – 5 + 6 – 7 + … n ubsmt 
+
+
+
+1
+22
+33
+
+nn
+
+gw) T = 1 +
+
++
+
++
+
++...
+
+
+
+y!
+
+( y ?1)!
+
+( y ?2)!
+
+(y ?n)!
+
+
+
+2.	Vtgnd xfgkb kppq cgna ufb tvm pc agdgut pc nvmlbs gc ufb gnqvuuba nvmlbs gt qsgmb, gc nvmlbs gt 
+
+
+
+
+76
+
+
+ufbn qsgnu ufb nbesbtu qsgmb nvmlbs.
+
+Cps byemqkb: gc vtbs gnqvut nvmlbs = 17 ufbn ufb pvuqvu xpvka lb = 1 + 7 = 8
+
+gc vtbs gnqvut nvmlbs = 20 ufbn ufb pvuqvu xpvka lb = 23 (nbyu qsgmb up 20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77

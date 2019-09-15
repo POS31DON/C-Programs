@@ -1,0 +1,13 @@
+//helm 28 and hello 28 are very similar passkeys
+//the only difference in the output will be of a 2-4 alphabets
+//thus decryption(bruteforce) will give pass password helm 28 too
+//unless a word/phrase from the file is provided
+helm 28
+basuivbas
+vaiufbviabviu
+vbafiubviufbv
+rheuhreh8hr98gy9
+vbafbvibfb
+vfbavbiufvbiuh
+hello 28
+password

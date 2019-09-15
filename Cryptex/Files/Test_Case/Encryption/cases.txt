@@ -1,0 +1,7 @@
+input_1: 10, helo
+input_2: 10, HHelllo
+input_3: 8, HHelllo
+input_4: 8, I am Mr Robot
+input_5: I am Mr Robot + 2015
+input_6 [From File]: I am Mr Robot + 2015
+input_7 [From File]: I am Mr (20) Rob15ot
